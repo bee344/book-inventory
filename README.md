@@ -1,2 +1,2 @@
 # book-inventory
-Small book inventory manager
+Small book inventory manager.
